@@ -147,7 +147,7 @@ img {
         align-items: center;
     }
 
-    .lessons .col, .steps .col {
+    .lessons .col, .steps .col, .why-us .col-right, .why-us .col-left {
         width: 100%;
     }
 
@@ -170,12 +170,7 @@ img {
     }
 
     .why-us .col-left {
-        width: 100%;
         margin-bottom: 50px;
-    }
-    
-    .why-us .col-right {
-        width: 100%;
     }
 
 }
